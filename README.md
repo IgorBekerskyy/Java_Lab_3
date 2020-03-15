@@ -1,2 +1,2 @@
 # Java_Lab_3
-Tests, code an pomxml file for ,y lab_3
+Code an pomxml file of my Lab_3
